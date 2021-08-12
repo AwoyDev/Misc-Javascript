@@ -1,0 +1,20 @@
+{
+  "name": "misc-javascript",
+  "version": "1.0.0",
+  "description": "a mis code of javascript",
+  "main": "gradient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "misc",
+    "javascript"
+  ],
+  "author": "awoydev",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "gradient-string": "^1.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
