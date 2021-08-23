@@ -1,17 +1,24 @@
 {
   "name": "misc-javascript",
   "version": "1.0.0",
-  "description": "a mis code of javascript",
-  "main": "gradient.js",
+  "description": "misc javascript",
+  "main": "bdd.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwoyDev/Misc-Javascript.git"
+  },
   "keywords": [
-    "misc",
-    "javascript"
+    "misc"
   ],
   "author": "awoydev",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwoyDev/Misc-Javascript/issues"
+  },
+  "homepage": "https://github.com/AwoyDev/Misc-Javascript#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "gradient-string": "^1.2.0",
