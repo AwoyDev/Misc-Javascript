@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('../modules/node_modules/fs');
 
 var data = fs.readFileSync("bd_.txt");
 var splitData = data.toString().split('\n');

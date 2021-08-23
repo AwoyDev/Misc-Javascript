@@ -1,4 +1,4 @@
-const ps = require("prompt-sync");
+const ps = require("./modules/node_modules/prompt-sync");
 const prompt = ps();
 
 let name = prompt("Quel est ton nom ? ")
